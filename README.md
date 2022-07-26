@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Killermax
-- 👀 I’m interested in Java
+- 👀 I’m a Java developer
 - 🌱 I’m currently learning ...
 
 <!---
