@@ -2,6 +2,7 @@
 - 👀 I’m a Software developer
 - 🌱 I’m currently learning ...
 - languages - C# , Java, Kotlin, Python
+- my discord - KillerMax #7260
 
 <!---
 KillerMax4299/KillerMax4299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
