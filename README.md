@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Killermax
 - 👀 I’m a Software developer
 - 🌱 I’m currently learning ...
-- languages - C# , Java, Kotlin, Python
+- languages - C# , Java, Kotlin, Python, Javascript
 - my discord - KillerMax #7260
 
 <!---
